@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="95" viewBox="0 0 10 95">
+    <g fill="none" fill-rule="nonzero" stroke="#283032" opacity=".5" transform="translate(1 .885)">
+        <path stroke-dasharray="0,4" stroke-linecap="square" d="M4 4v83.5"/>
+        <circle cx="4" cy="4" r="4" fill="#D9E3ED"/>
+        <circle cx="4" cy="33" r="4" fill="#D9E3ED"/>
+        <circle cx="4" cy="61" r="4" fill="#D9E3ED"/>
+        <circle cx="4" cy="89" r="4" fill="#D9E3ED"/>
+    </g>
+</svg>
